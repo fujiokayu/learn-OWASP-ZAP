@@ -4,7 +4,7 @@ According to [第74回 脆弱性診断ええんやで(^^) for ルーキーズ](h
 
 ## Prerequisites
 
-### [Download and Install: OWASP ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
+### Download and Install [OWASP ZAP](https://github.com/zaproxy/zaproxy/wiki/Downloads)
 
 ## OWASP ZAP、ブラウザーの設定
 

@@ -34,7 +34,7 @@ According to [第74回 脆弱性診断ええんやで(^^) for ルーキーズ](h
             - 推奨は 1000 以上。自分のサーバーなど週末にゆっくり診断する場合は、10000 などで数日間起動したりしても良い
 
 - HUD の切り方
-    - [ツール][オプション][HUD][Enable whenEnable when using ZAP Enable when using the ZAP Desctop]のチェックをオフにする
+    - [ツール][オプション][HUD][Enable when using the ZAP Desctop]のチェックをオフにする
 
 - アドオン
     - [ヘルプ][アップデートのチェック]
